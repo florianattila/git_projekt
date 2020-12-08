@@ -6,8 +6,8 @@
 // Összeadás
 //------------------
 
-$a = 10;
-$b = 15;
+$a = 105;
+$b = 17;
 $c  = 12;
 
 
@@ -16,7 +16,7 @@ print $a + $b + $c;
 //Most váltok a kivonásra
 //most itt vagyok
 =======
-
+//a konfliktus megoldódott
 
 // Kivonás
 //--------------------
@@ -33,6 +33,10 @@ $y = 19;
 
 
 print "<br /><br />" . $x - $y;
+<<<<<<< HEAD
 
+>>>>>>> kivonas
+=======
+//konfliktus lesz
 >>>>>>> kivonas
 ?>
