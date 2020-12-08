@@ -12,6 +12,27 @@ $c  = 12;
 
 
 print $a + $b + $c;
+<<<<<<< HEAD
 //Most váltok a kivonásra
 //most itt vagyok
+=======
+
+
+// Kivonás
+//--------------------
+
+$x = 35;
+$y = 19;
+
+
+print "<br /><br />" . $x - $y;// Kivonás
+//--------------------
+
+$x = 35;
+$y = 19;
+
+
+print "<br /><br />" . $x - $y;
+
+>>>>>>> kivonas
 ?>
